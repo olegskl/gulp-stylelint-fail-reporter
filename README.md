@@ -14,6 +14,7 @@ npm install gulp-stylelint-fail-reporter --save-dev
 ## Quick start
 
 ```js
+import gulpStylelint from 'gulp-stylelint';
 import failReporter from 'gulp-stylelint-fail-reporter';
 
 gulp.task('lint-css', function lintCssTask() {
