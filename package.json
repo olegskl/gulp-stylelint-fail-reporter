@@ -1,6 +1,6 @@
 {
   "name": "gulp-stylelint-fail-reporter",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "gulp-stylelint reporter that fails stylelint linting task with non-zero exit code",
   "main": "lib/index.js",
   "scripts": {
